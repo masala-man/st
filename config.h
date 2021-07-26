@@ -6,7 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "RobotoMono Nerd Font:pixelsize=13:style=Medium";
-static char *font2[] = { "Symbola:pixelsize=13:antialias=true:autohint=true" };
+static char *font2[] = { "Noto Color Emoji:style=Regular:pixelsize=13", "TerminessTTFNerdFontMono", "Symbola:pixelsize=13:antialias=true:autohint=true" };
 static int borderpx = 24;
 
 /*
