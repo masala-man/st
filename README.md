@@ -28,3 +28,4 @@ So I don't forget what I did. Build grabs colours from pywal.
 - st-font2-20190416-ba72400
 - st-workingdir-20200317-51e19ea
 - st-undercurl-0.8.4
+- st-boxdraw_v2-0.8.3
