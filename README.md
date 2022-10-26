@@ -2,7 +2,7 @@
 
 So I don't forget what I did. Build grabs colours from pywal.
 
-![Screenshot](https://cdn.discordapp.com/attachments/730969252865245267/869268162808528906/2021-07-26-225034_1600x900_scrot.png)
+![Screenshot](https://i.imgur.com/MyOye8W.png)
 
 ## Keybinds
 
